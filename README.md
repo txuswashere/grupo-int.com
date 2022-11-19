@@ -66,5 +66,31 @@ La formación no es suficiente. Los usuarios deben de ser conscientes de la resp
 
 ![https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
 
+# Kit Digital – Agentes digitalizadores
+https://www.grupo-int.com/kit-digital/
+INTWeb – Sitio Web y presencia en Internet
+INTCrm – Gestión de clientes
+INTCloud – Servicios y herramientas de oficina virtual
+INTErp – Gestión de procesos
+INTFactu – Factura electrónica
+INTComSeg – Comunicaciones seguras
+INTCiberseg – Ciberseguridad
 
-#Otra forma de hacer las cosas es posible... https://www.grupo-int.com/
+# Auditorias
+#### Analizamos tus sistemas y la seguridad informática de tu empresa para determinar sus debilidades y fortalezas.
+
+## Auditoria de Seguridad
+Esta auditoria está orientada a la seguridad de los sistemas, tanto interna como externa, y de los propios trabajadores. Cabe la posibilidad de crear test de penetración para evaluar con más certeza la correcta implantación de las medidas de seguridad.
+
+## SGSI
+El SGSI o Sistema para la Gestión de la Seguridad de la Información, es el primer paso para la seguridad de la empresa. En caso de sufrir un ataque, el SGSI es imprescindible para la recuperación del negocio. Evaluaremos toda la infraestructura de la empresa para determinar los activos críticos y que medidas se deben tomar para la recuperación de los mismos, en el menor tiempo posible (continuidad del negocio). Se desarrollaran protocolos de actuación por parte de los usuarios y administradores de sistemas para el correcto seguimiento de las normas a aplicar.
+
+## Auditoria de Sistemas
+Esta auditoria está orientada al correcto aprovechamiento de los recursos y sistemas y a verificar si estos se adaptan a las necesidades de los usuarios. En ella se evalúan tanto equipos como programas y el uso que los usuarios hacen de los mismos.
+
+
+
+
+# Otra forma de hacer las cosas es posible... https://www.grupo-int.com/
+![https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
+
