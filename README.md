@@ -37,8 +37,8 @@ Realizamos auditorías de seguridad para determinar las vulnerabilidades de tus 
 
 
 ### Expertos en seguridad informática
-La seguridad total no existe. 
-Hay dos tipos de empresas, las que han sido atacadas y las que lo van a ser. 
+> La seguridad total no existe. 
+> Hay dos tipos de empresas, las que han sido atacadas y las que lo van a ser. 
 Nuestros esfuerzos se centran en tomar las medidas necesarias para ponérselo lo más difícil posible a un atacante. En caso de que este se produzca, tendremos diseñado un plan para la recuperación de los activos en el menor tiempo posible.
 
 
@@ -72,6 +72,15 @@ https://www.grupo-int.com/kit-digital/
 * INTFactu – Factura electrónica
 * INTComSeg – Comunicaciones seguras
 * INTCiberseg – Ciberseguridad
+
+# Mantenimientos
+
+#### Confía en nosotros el cuidado de tus equipos y sistemas.
+
+* El mantenimiento de los sistemas informáticos es fundamental para el correcto funcionamiento de los mismos. Las actualizaciones de sistemas y copias de seguridad son una parte muy importante, pero no debemos descuidar el rendimiento de los equipos y programas.
+* Nuestros mantenimientos intentan ser preventivos por lo que procuramos detectar los posibles fallos para poder evitarlos. No obstante, permanecemos alerta y ante cualquier incidencia nuestra respuesta es prácticamente inmediata.
+
+
 
 # Auditorias
 #### Analizamos tus sistemas y la seguridad informática de tu empresa para determinar sus debilidades y fortalezas.
