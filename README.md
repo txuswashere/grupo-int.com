@@ -7,12 +7,9 @@
 
 # Sobre nosotros:
 En Grupo INT apostamos por la colaboración, anteponiendo al cliente para lograr su satisfacción profesional y personal.
-
-PROFESIONALIDAD: Escuchamos las necesidades del cliente para proponerle la solución mas adecuada.
-
-CUALIFICACIÓN: Nuestros técnicos tienen una dilatada experiencia y estamos en formación permanente.
-
-SATISFACCIÓN: Es nuestro objetivo final, la satisfacción de un cliente es la recompensa a todos nuestros esfuerzos.
+* PROFESIONALIDAD: Escuchamos las necesidades del cliente para proponerle la solución mas adecuada.
+* CUALIFICACIÓN: Nuestros técnicos tienen una dilatada experiencia y estamos en formación permanente.
+* SATISFACCIÓN: Es nuestro objetivo final, la satisfacción de un cliente es la recompensa a todos nuestros esfuerzos.
 
 
 
@@ -22,11 +19,11 @@ SATISFACCIÓN: Es nuestro objetivo final, la satisfacción de un cliente es la r
 
 **Jornadas tecnológicas de ciberseguridad y talleres prácticos** impartidos en 2022:
 
-https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20%20Correo%20cifrado.pdf
+* Cifrado de correo https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20%20Correo%20cifrado.pdf
 
-https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20Cloud%20Privado.pdf
+* Cloud privado https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20Cloud%20Privado.pdf
 
-https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20Evitando%20estafas%20y%20fraudes.pdf
+* Evitando estafas y fraudes https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20Evitando%20estafas%20y%20fraudes.pdf
 
 ![https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/grupo-int.jpg)
 
@@ -47,11 +44,11 @@ Nuestros esfuerzos se centran en tomar las medidas necesarias para ponérselo lo
 
 ## Test de penetración (Pentesting)
 
-Caja NEGRA: En este caso, asumimos el rol de un atacante que no tiene ningún dato sobre la empresa objetivo, vamos a ciegas. El objetivo es recopilar toda la información posible con el fin de planificar posibles ataques.
+* Caja NEGRA: En este caso, asumimos el rol de un atacante que no tiene ningún dato sobre la empresa objetivo, vamos a ciegas. El objetivo es recopilar toda la información posible con el fin de planificar posibles ataques.
 
-Caja GRIS: En este caso, asumimos el rol de un usuario que tiene limitados los privilegios en la empresa objetivo. Simularemos un ataque interno, intentando el acceso a información no permitida y valoraremos los posibles caminos para que se produzcan fugas/robos de datos.
+* Caja GRIS: En este caso, asumimos el rol de un usuario que tiene limitados los privilegios en la empresa objetivo. Simularemos un ataque interno, intentando el acceso a información no permitida y valoraremos los posibles caminos para que se produzcan fugas/robos de datos.
 
-Caja BLANCA: En este caso, disponemos de toda la información de la empresa objetivo por lo que nuestra tarea será la de evaluar la seguridad del entorno y los sistemas.
+* Caja BLANCA: En este caso, disponemos de toda la información de la empresa objetivo por lo que nuestra tarea será la de evaluar la seguridad del entorno y los sistemas.
 
 
 
@@ -68,13 +65,13 @@ La formación no es suficiente. Los usuarios deben de ser conscientes de la resp
 
 # Kit Digital – Agentes digitalizadores
 https://www.grupo-int.com/kit-digital/
-INTWeb – Sitio Web y presencia en Internet
-INTCrm – Gestión de clientes
-INTCloud – Servicios y herramientas de oficina virtual
-INTErp – Gestión de procesos
-INTFactu – Factura electrónica
-INTComSeg – Comunicaciones seguras
-INTCiberseg – Ciberseguridad
+* INTWeb – Sitio Web y presencia en Internet
+* INTCrm – Gestión de clientes
+* INTCloud – Servicios y herramientas de oficina virtual
+* INTErp – Gestión de procesos
+* INTFactu – Factura electrónica
+* INTComSeg – Comunicaciones seguras
+* INTCiberseg – Ciberseguridad
 
 # Auditorias
 #### Analizamos tus sistemas y la seguridad informática de tu empresa para determinar sus debilidades y fortalezas.
