@@ -37,8 +37,9 @@ Realizamos auditorías de seguridad para determinar las vulnerabilidades de tus 
 
 
 ### Expertos en seguridad informática
-> La seguridad total no existe. 
-> Hay dos tipos de empresas, las que han sido atacadas y las que lo van a ser. 
+* La seguridad total no existe. 
+* Hay dos tipos de empresas, las que han sido atacadas y las que lo van a ser. 
+
 Nuestros esfuerzos se centran en tomar las medidas necesarias para ponérselo lo más difícil posible a un atacante. En caso de que este se produzca, tendremos diseñado un plan para la recuperación de los activos en el menor tiempo posible.
 
 
