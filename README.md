@@ -17,7 +17,7 @@ En Grupo INT apostamos por la colaboración, anteponiendo al cliente para lograr
 
 ## Ciberseguridad
 
-**Jornadas tecnológicas de ciberseguridad y talleres prácticos de hacking** impartidos en 2022 en la sede de GRUPO-INT en Avenida 8 de Marzo 14-1A. Vitoria-Gasteiz (Álava) 01002:
+**Jornadas de ciberseguridad y talleres prácticos** impartidos en 2022:
 
 * Cifrado de correo https://github.com/txuswashere/grupo-int.com/raw/main/grupo-INT.com%20%20Correo%20cifrado.pdf
 
