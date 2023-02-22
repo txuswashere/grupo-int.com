@@ -11,7 +11,7 @@ En Grupo INT apostamos por la colaboración, anteponiendo al cliente para lograr
 * CUALIFICACIÓN: Nuestros técnicos tienen una dilatada experiencia y estamos en formación permanente.
 * SATISFACCIÓN: Es nuestro objetivo final, la satisfacción de un cliente es la recompensa a todos nuestros esfuerzos.
 
-
+![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/press/202212grupo-int.png)
 
 # Seguridad informática en Grupo INT:
 
