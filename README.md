@@ -13,6 +13,9 @@ En Grupo INT apostamos por la colaboración, anteponiendo al cliente para lograr
 
 ![Otra forma de hacer las cosas es posible... https://www.grupo-int.com/](https://github.com/txuswashere/grupo-int.com/raw/main/press/202212grupo-int.png)
 
+Grupo INT desarrolla en software libre servicios informáticos al nivel de Google u Office 365. https://www.spri.eus/es/ciberseguridad/grupo-int-desarrolla-software-libre-servicios-informaticos-nivel-google-office-365/
+
+
 # Seguridad informática en Grupo INT:
 
 ## Ciberseguridad
